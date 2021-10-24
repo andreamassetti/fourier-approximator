@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.2ed27cfa.chunk.js",
-    "main.js.map": "/static/js/main.2ed27cfa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5f6c4e08.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5f6c4e08.js.map",
-    "static/js/2.00eb4528.chunk.js": "/static/js/2.00eb4528.chunk.js",
-    "static/js/2.00eb4528.chunk.js.map": "/static/js/2.00eb4528.chunk.js.map",
-    "static/js/3.c271bc42.chunk.js": "/static/js/3.c271bc42.chunk.js",
-    "static/js/3.c271bc42.chunk.js.map": "/static/js/3.c271bc42.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.00eb4528.chunk.js.LICENSE.txt": "/static/js/2.00eb4528.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/fourier-approximator/static/css/main.a617e044.chunk.css",
+    "main.js": "/fourier-approximator/static/js/main.2ed27cfa.chunk.js",
+    "main.js.map": "/fourier-approximator/static/js/main.2ed27cfa.chunk.js.map",
+    "runtime-main.js": "/fourier-approximator/static/js/runtime-main.c03a2abd.js",
+    "runtime-main.js.map": "/fourier-approximator/static/js/runtime-main.c03a2abd.js.map",
+    "static/js/2.00eb4528.chunk.js": "/fourier-approximator/static/js/2.00eb4528.chunk.js",
+    "static/js/2.00eb4528.chunk.js.map": "/fourier-approximator/static/js/2.00eb4528.chunk.js.map",
+    "static/js/3.c271bc42.chunk.js": "/fourier-approximator/static/js/3.c271bc42.chunk.js",
+    "static/js/3.c271bc42.chunk.js.map": "/fourier-approximator/static/js/3.c271bc42.chunk.js.map",
+    "index.html": "/fourier-approximator/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/fourier-approximator/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.00eb4528.chunk.js.LICENSE.txt": "/fourier-approximator/static/js/2.00eb4528.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fourier-approximator/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f6c4e08.js",
+    "static/js/runtime-main.c03a2abd.js",
     "static/js/2.00eb4528.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.2ed27cfa.chunk.js"
